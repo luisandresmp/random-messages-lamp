@@ -14,7 +14,15 @@
   "author": "Luis Martínez Peraza <luisandresmartinezperaza@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisandresmp/random-messages-lamp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/luisandresmp/random-messages-lamp/issues"
+  },
+  "homepage": "https://github.com/luisandresmp/random-messages-lamp#readme"
 }
